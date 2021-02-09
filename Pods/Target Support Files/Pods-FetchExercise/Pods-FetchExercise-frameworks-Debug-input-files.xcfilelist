@@ -1,0 +1,6 @@
+${PODS_ROOT}/Target Support Files/Pods-FetchExercise/Pods-FetchExercise-frameworks.sh
+${BUILT_PRODUCTS_DIR}/AFNetworking/AFNetworking.framework
+${BUILT_PRODUCTS_DIR}/MGEvents/MGEvents.framework
+${BUILT_PRODUCTS_DIR}/SDWebImage/SDWebImage.framework
+${BUILT_PRODUCTS_DIR}/SGAPI/SGAPI.framework
+${BUILT_PRODUCTS_DIR}/SGHTTPRequest/SGHTTPRequest.framework

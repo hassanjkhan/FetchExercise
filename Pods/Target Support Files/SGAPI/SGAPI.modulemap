@@ -1,0 +1,6 @@
+framework module SGAPI {
+  umbrella header "SGAPI-umbrella.h"
+
+  export *
+  module * { export * }
+}
