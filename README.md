@@ -5,11 +5,8 @@
 
 ## Description
 
-Created an iOS application that would consume the open-source SeatGeek API and
-display events in a UITableView as shown in the below screenshots. To search an event
-UISearchBar should be used and it should be placed on the top of the UITableView.
-The application needs to fetch relevant events from SeatGeek API while user is
-typing in the search bar. 
+Created an iOS application that consumes the open-source SeatGeek API. It searches for an event through SeatGeek events endpoint, and allows for favouriting specific events.
+
 
 ## Table of Contents
 
