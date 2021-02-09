@@ -24,7 +24,7 @@ typing in the search bar.
 
 # 1. Setup
 
-### To set up run pod install on your terminal inside the FetchExercise folder and open FetchExercise.xcworkspace instead of FetchExercise.xcodeproj.
+### To set up run pod install on your terminal inside the FetchExercise folder and open FetchExercise.xcworkspace instead of FetchExercise.xcodeproj. Make sure to have at least cocoapod version (1.10.0)
 
 <a name="b"></a>
 
